@@ -2,7 +2,7 @@
 
 ## TODO LIST  
 
-- [] ``ReverseShell``
+- [ ] ``ReverseShell``
 
 ### Project Architecture
 
